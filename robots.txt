@@ -1,0 +1,14 @@
+User-Agent: *
+
+Disallow:
+
+Disallow: xml/sitemap.xml
+
+Disallow: /style.css
+
+Disallow: /index.html
+
+
+
+Sitemap: http://diamonds.dusanrasic.rs/xmlsitemap.xml
+
